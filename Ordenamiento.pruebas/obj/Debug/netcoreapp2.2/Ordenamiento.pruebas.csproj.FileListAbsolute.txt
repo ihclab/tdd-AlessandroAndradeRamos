@@ -1,0 +1,17 @@
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento.pruebas/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento.pruebas/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento.pruebas/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento.pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.pruebas.deps.json
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento.pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.pruebas.runtimeconfig.json
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento.pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.pruebas.runtimeconfig.dev.json
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento.pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.pruebas.dll
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento.pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.pruebas.pdb
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento.pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.dll
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento.pruebas/bin/Debug/netcoreapp2.2/Ordenamiento.pdb
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento.pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.pruebas.csprojAssemblyReference.cache
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento.pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.pruebas.csproj.CoreCompileInputs.cache
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento.pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.pruebas.AssemblyInfoInputs.cache
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento.pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.pruebas.AssemblyInfo.cs
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento.pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.pruebas.csproj.CopyComplete
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento.pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.pruebas.dll
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento.pruebas/obj/Debug/netcoreapp2.2/Ordenamiento.pruebas.pdb

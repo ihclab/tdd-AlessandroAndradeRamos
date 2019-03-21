@@ -1,0 +1,9 @@
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento/bin/Debug/netstandard2.0/Ordenamiento.deps.json
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento/bin/Debug/netstandard2.0/Ordenamiento.dll
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento/bin/Debug/netstandard2.0/Ordenamiento.pdb
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento/obj/Debug/netstandard2.0/Ordenamiento.csprojAssemblyReference.cache
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento/obj/Debug/netstandard2.0/Ordenamiento.csproj.CoreCompileInputs.cache
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento/obj/Debug/netstandard2.0/Ordenamiento.AssemblyInfoInputs.cache
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento/obj/Debug/netstandard2.0/Ordenamiento.AssemblyInfo.cs
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento/obj/Debug/netstandard2.0/Ordenamiento.dll
+/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento/obj/Debug/netstandard2.0/Ordenamiento.pdb
