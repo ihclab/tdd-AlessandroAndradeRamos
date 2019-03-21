@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/home/alessaurio/Documents/6to_semestre/pruebas_de_software/tdd-AlessandroAndradeRamos/Ordenamiento.pruebas/Ordenamiento.pruebas.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
